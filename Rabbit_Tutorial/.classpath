@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8"/>
+	<classpathentry kind="lib" path="D:/02.Study/rabbitmq-java-client-bin-3.3.4/rabbitmq-java-client-bin-3.3.4/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/02.Study/rabbitmq-java-client-bin-3.3.4/rabbitmq-java-client-bin-3.3.4/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/02.Study/rabbitmq-java-client-bin-3.3.4/rabbitmq-java-client-bin-3.3.4/junit.jar"/>
+	<classpathentry kind="lib" path="D:/02.Study/rabbitmq-java-client-bin-3.3.4/rabbitmq-java-client-bin-3.3.4/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="D:/02.Study/rabbitmq-java-client-bin-3.3.4/rabbitmq-java-client-bin-3.3.4/rabbitmq-client-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
